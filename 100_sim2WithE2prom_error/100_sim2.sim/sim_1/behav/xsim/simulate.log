@@ -1,8 +1,0 @@
-Vivado Simulator 2018.3
-Time resolution is 1 ps
-Time: 0, State: 100
-Time: 0, wr_req: 0, wr_data: 00
-Time: 15000, State: 101
-Time: 25000, State: 110
-Time: 35000, State: 000
-$finish called at time : 280 ns : File "D:/01_my_document/desktop/01_contest_about/FPGACT137X/my_code/100_sim2WithE2prom/100_sim2.srcs/sim_1/new/test_tb.v" Line 65
